@@ -2,4 +2,4 @@
 Neat patterns to use in typescript.
 
 
-This project simply provides patters and does not compile.
+This project simply provides patterns and does not compile.
